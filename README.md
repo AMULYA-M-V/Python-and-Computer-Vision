@@ -1,7 +1,3 @@
-# SHAPEAI PYTHON AND COMPUTER VISION BOOTCAMP
-Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
-</b>.
-
 <br>I got to have hands on experience on:
 <li>Python
 <li>Neural Networks
